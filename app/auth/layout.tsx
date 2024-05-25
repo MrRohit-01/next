@@ -3,7 +3,6 @@ export default async function({children}:Readonly<{children: React.ReactNode;}>)
 
   return (
     <>
-   <div> this is (auth) page</div>
     {children}
     </>
   )
