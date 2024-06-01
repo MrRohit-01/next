@@ -5,7 +5,7 @@ export default function RootLayout({
 }) {
   return (
       <div>
-      hi there deto
+
       {children}
       </div>
   );
